@@ -6,3 +6,5 @@ Welcome to the Linux Essentials sections! This document provides a high-level ov
 ## Table of Contents
 
 - [CLI Skills](cli-skills.md): Master the command-line interface (CLI) with topics like variables, command types, quoting, and control statements.
+
+- [Getting Help](getting-help.md): An overview of various methods and tools for accessing Linux command documentation, finding files, and navigating manual pages
