@@ -1,4 +1,6 @@
-## Essentials
+## CLI Skills
+
+This document covers essential command-line interface (CLI) skills for Linux users.
 
 ### Table of Contents
 
