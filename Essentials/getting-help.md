@@ -67,7 +67,7 @@ If a match is found, it will be highlighted. To move to the next match of the te
 
 #### Navigation controls 
 If the man command can find the manual page for the argument provided, then that manual page will be displayed using a command called less. The following table describes useful keys that can be used with the less command to control the output of the display:
-[!Navigate output](./images/man-navigation-controls.png)
+![Navigate output](./images/man-navigation-controls.png)
 
 #### Categorization by sections 
 
