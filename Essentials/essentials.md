@@ -9,4 +9,6 @@ Welcome to the Linux Essentials sections! This document provides a high-level ov
 
 - [Getting Help](getting-help.md): An overview of various methods and tools for accessing Linux command documentation, finding files, and navigating manual pages
 
-- [Navigating File System](file-system-navigating.md): An overview of the Linux filesystem and commands to navigate and manage it effectively
+- [Navigating File System](file-system-navigating.md): An overview of the Linux filesystem and commands to navigate and manage it effectively 
+
+- [Managing Files and Directories](managing-files-directories.md): It covers essential commands for copying, moving, creating, and deleting files and directories. Additionally, it explains advanced globbing techniques.
