@@ -1,5 +1,38 @@
 # Working with Text
 
+This section covers essential commands and techniques for working with text in Linux. You will learn how to view, manipulate, filter, and sort text files using commands like `cat`, `less`, `head`, `tail`, `grep`, `sort`, and more. Additionally, you'll explore input/output redirection and regular expressions for advanced text processing.
+
+
+## Table of Contents
+
+- [Viewing Files in the Terminal](#viewing-files-in-the-terminal)
+- [Viewing Files Using a Pager](#viewing-files-using-a-pager)
+  - [Pager Movement Commands](#pager-movement-commands)
+  - [Pager Searching Commands](#pager-searching-commands)
+- [Head and Tail](#head-and-tail)
+  - [Negative Value Option](#negative-value-option)
+  - [Positive Value Option](#positive-value-option)
+  - [Live Changes](#live-changes)
+- [Command Line Pipes](#command-line-pipes)
+- [Input/Output Redirection](#inputoutput-redirection)
+  - [STDOUT](#stdout)
+  - [STDERR](#stderr)
+  - [Redirecting Multiple Streams](#redirecting-multiple-streams)
+  - [STDIN](#stdin)
+- [Sorting Files or Input](#sorting-files-or-input)
+- [Viewing File Statistics](#viewing-file-statistics)
+- [Filter File Sections](#filter-file-sections)
+- [Filter File Contents](#filter-file-contents)
+- [Basic Regular Expressions](#basic-regular-expressions)
+  - [The Period `.` Character](#the-period--character)
+  - [The Bracket `[]` Characters](#the-bracket--characters)
+  - [The Asterisk `*` Character](#the-asterisk--character)
+  - [Anchor Characters](#anchor-characters)
+  - [The Backslash `\` Character](#the-backslash--character)
+  - [Extended Regular Expressions](#extended-regular-expressions)
+
+--- 
+
 ### Viewing Files in the Terminal 
 
 The `cat` command, short for concatenate, is a simple but useful command whose functions include creating and displaying text files, as well as combining copies of text files. One of the most popular uses of `cat` is to display the content of text files. To display a file in the standard output using the `cat` command, type the command followed by the filename:

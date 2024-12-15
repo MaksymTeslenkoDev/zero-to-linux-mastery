@@ -14,3 +14,5 @@ Welcome to the Linux Essentials sections! This document provides a high-level ov
 - [Managing Files and Directories](managing-files-directories.md): It covers essential commands for copying, moving, creating, and deleting files and directories. Additionally, it explains advanced globbing techniques.
 
 - [Archiving and Compression](archiving-and-compression.md): It covers the essential tools and techniques for archiving and compressing files in Linux.
+
+- [Working with Text](working-with-text.md): Covers essential commands and techniques for working with text in Linux. Commands like `cat`, `less`, `head`, `tail`, `grep`, `sort`. 
