@@ -15,5 +15,6 @@ Welcome to the Linux Essentials sections! This document provides a high-level ov
 
 - [Archiving and Compression](archiving-and-compression.md): It covers the essential tools and techniques for archiving and compressing files in Linux.
 
-- [Working with Text](working-with-text.md): Covers essential commands and techniques for working with text in Linux. Commands like `cat`, `less`, `head`, `tail`, `grep`, `sort`. 
+- [Working with Text](working-with-text.md): Covers essential commands and techniques for working with text in Linux. Commands like `cat`, `less`, `head`, `tail`, `grep`, `sort`.
 - [Basic scripting](basic-scripting.md): Introduces basic scripting concepts in Linux, including using text editors, handling variables, writing conditionals, and creating loops. 
+- [Hardware](hardware.md): This chapter introduces and explains the basics of what makes up a computer and expands to a few optional items that are fairly commonplace. 
