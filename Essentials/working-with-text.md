@@ -58,7 +58,7 @@ To view a file with the `less` command, pass the file name as an argument:
 sysadmin@localhost:~/Documents$ less words
 ```
 
-![Pager movements commands](./images/pager-movements-commands.jpg)
+![Pager movements commands](./images/pager-movements-commands.png)
 
 #### Pager Searching Commands
 

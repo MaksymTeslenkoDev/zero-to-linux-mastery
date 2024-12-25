@@ -29,7 +29,7 @@ UNIX has many text editors. The merits of one over the other are often hotly deb
 Type `nano test.sh` and you’ll see a screen similar to this:
 
 Other helpful commands you might need are:
-![Nano useful commands](./images/nano-commands.jpg)
+![Nano useful commands](./images/nano-commands.png)
 
 ## Variables
 
