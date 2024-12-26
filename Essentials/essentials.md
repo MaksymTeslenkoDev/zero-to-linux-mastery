@@ -23,4 +23,6 @@ Welcome to the Linux Essentials sections! This document provides a high-level ov
 
 - [Where Data is Stored](where-data-stored.md): Explores where and how data is stored in a Linux system, including information about processes, memory management, log files, and the filesystem hierarchy
 
+-[Network configuration](network-configuration.md)
+
 
